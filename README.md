@@ -1,8 +1,8 @@
-Author: Ahmed Mostafa Ahmed
-email on git: ahmed.mostafa@gmail.com
-Description:
+#Author: Ahmed Mostafa Ahmed
+#email on git: ahmed.mostafa@gmail.com
+#Description:
 This project is for showing some statistics about data set saved in an array.
-which shows:
+#which shows:
 1) print array.
 2) get max of data set.
 3) get min of data set.
